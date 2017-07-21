@@ -10,7 +10,7 @@ typedef enum
   LED3 = 2,
 }Led_TypeDef;
 
-#define LEDn                                    3
+#define LEDn                                    300
 
 #define LED1_PIN                                GPIO_Pin_3
 #define LED1_GPIO_PORT                          GPIOB 
