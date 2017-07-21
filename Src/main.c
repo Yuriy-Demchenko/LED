@@ -8,7 +8,7 @@ int main(void)
 	
 	while(1)
 	{
-		gpioToggle(LED2);
+		gpioToggle(LED1);
 		delay(1000);
 		
 	}
