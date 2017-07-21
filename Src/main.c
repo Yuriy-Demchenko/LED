@@ -9,7 +9,7 @@ int main(void)
 	while(1)
 	{
 		gpioToggle(LED1);
-		delay(1000);
+		delay(2000);
 		
 	}
 }
